@@ -1,0 +1,13 @@
+
+
+.acountIcon{
+    cursor: pointer;
+}
+
+.acountIcon:hover{
+    color: var(--secondary-color) ;
+}
+
+.acount ul {
+    display: none;
+}

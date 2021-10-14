@@ -1,0 +1,17 @@
+
+
+.menu ul {
+    display: flex;
+}
+
+.menu ul > li {
+    
+    font-size: 0.85rem;
+    margin-right:1.5rem;
+    cursor: pointer;
+
+}
+
+.menu ul > li:hover{
+    color : var(--secondary-color )
+}

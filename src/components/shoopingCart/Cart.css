@@ -1,0 +1,17 @@
+
+
+.cart{
+    width: 5rem;
+    height: 2.5rem;
+    border: 1px solid black;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cart:hover{
+    cursor: pointer;
+    border-color: var(--secondary-color);
+    color: var(--secondary-color);
+}
